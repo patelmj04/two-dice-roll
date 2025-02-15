@@ -6,8 +6,6 @@
 
 A modern web-based dice roller with animated interactions and history tracking, featuring a sleek glass-morphism design.
 
-![Dice Roller Demo](https://via.placeholder.com/800x500.png?text=Dice+Roller+Demo+Shot) *Add actual screenshot later*
-
 ## 🌟 Features
 
 ### Core Functionality
