@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a4e5650e-4b27-4703-a060-95047bd71c45)
 
+
 # 🎲 Dice Roller Web Application
 
 A modern web-based dice roller with animated interactions and history tracking, featuring a sleek glass-morphism design.
