@@ -1,4 +1,4 @@
-# Two Dice Roll
+# Dice Roller (2 Dice)
 
 ![image](https://github.com/user-attachments/assets/a4e5650e-4b27-4703-a060-95047bd71c45)
 
